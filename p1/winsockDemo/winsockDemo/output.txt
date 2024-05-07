@@ -1,0 +1,580 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+Set-Cookie: ASPSESSIONIDQABBSAQD=JNOLMNCAOHCKBHFNNPIOINLL; path=/
+X-Powered-By: ASP.NET
+Date: Tue, 07 May 2024 03:13:45 GMT
+Connection: close
+Content-Length: 22079
+
+<html>
+
+
+
+<head>
+
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>IRL courses</title>
+<link rel="stylesheet" href="../_themes/auto/auto1011.css">
+</head>
+
+<body>
+<tr><td>
+<p style="margin-top: 0; margin-bottom: 0">
+<font face="Microsoft Sans Serif" size="1"><a href="http://www.cse.tamu.edu/">
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING</a> |
+<a href="http://engineering.tamu.edu/">DWIGHT LOOK COLLEGE OF ENGINEERING</a> |
+<a href="http://www.tamu.edu">TEXAS A&amp;M UNIVERSITY</a></font> </p>
+<p style="margin-top: 0; margin-bottom: 0">&nbsp; </p>
+
+</td></tr>
+<table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+<table border="0">
+	<tr>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt">
+		<font face="Microsoft Sans Serif" size="1"><a target="_self" href="/">
+		HOME</a></font></td>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt"></td>
+	</tr>
+	<tr>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt">
+		<font face="Microsoft Sans Serif" size="1"><a href="/about/">ABOUT</a></font></td>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt"></td>
+	</tr>
+	<tr>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt">
+		<font face="Microsoft Sans Serif" size="1"><a href="/courses">COURSES</a></font></td>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt"></td>
+	</tr>
+	<tr>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt">
+		<font face="Microsoft Sans Serif" size="1">
+		<a target="_self" href="/people/">PEOPLE</a></font></td>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt"></td>
+	</tr>
+	<tr>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt">
+		<font face="Microsoft Sans Serif" size="1"><a href="/projects/">PROJECTS</a></font></td>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt"></td>
+	</tr>
+	<tr>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt">
+		<font face="Microsoft Sans Serif" size="1"><a href="/publications/">
+		PUBLICATIONS</a></font></td>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt"></td>
+	</tr>
+	<tr>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt">
+		<font face="Microsoft Sans Serif" size="1"><a href="/contact/">CONTACT</a></font></td>
+		<td>
+		<p style="margin-top: 0; margin-bottom: 6pt"></td>
+	</tr>
+</table>
+
+
+</td><td valign="top" width="24"></td><td valign="top">
+
+<p style="color: #00FF00; position: relative !important; margin-top:0"><u>
+<font face="Arial Black" size="5" color="#00FF00">IRL courses</font></u></p>
+
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2024</font></p>
+
+<blockquote>
+  <font face="Microsoft Sans Serif">
+  <p style="margin-bottom: 6px; margin-top:0"><a href="313/">CSCE 313-200: Introduction to Computer Systems (honors)</a></p>
+	</font>
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	<a href="463/">CSCE 463/612: 
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+	<font size="3" face="Microsoft Sans Serif">
+  	Networks and Distributed Processing</font></span></a></font></p>
+</blockquote>
+
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2023</font></p>
+
+<blockquote>
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 463/612: 
+	<font size="3" face="Microsoft Sans Serif">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  	Networks and Distributed Processing</span></font></font></p>
+</blockquote>
+
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2023</font></p>
+
+<blockquote>
+  <font face="Microsoft Sans Serif">
+  <p style="margin-bottom: 6px; margin-top:0">CSCE 313-200: Introduction to Computer Systems (honors)</p>
+	</font>
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 463/612: 
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+	<font size="3" face="Microsoft Sans Serif">
+  	Networks and Distributed Processing</font></span></font></p>
+</blockquote>
+
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2022</font></p>
+
+<blockquote>
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 463/612: 
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+	<font size="3" face="Microsoft Sans Serif">
+  	Networks and Distributed Processing</font></span></p>
+</blockquote>
+
+
+</font>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2022</font></p>
+
+<blockquote>
+  <font face="Microsoft Sans Serif">
+  <p style="margin-bottom: 6px; margin-top:0">CSCE 313-200: Introduction to Computer Systems (honors)</p>
+	</font>
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 463/612: 
+	<font size="3" face="Microsoft Sans Serif">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  	Networks and Distributed Processing</span></font></p>
+</blockquote>
+
+
+</font>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2021</font></p>
+
+<blockquote>
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 463/612: 
+	<font size="3" face="Microsoft Sans Serif">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  	Networks and Distributed Processing</span></font></p>
+</blockquote>
+
+
+</font>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2021</font></p>
+
+<blockquote>
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 463/612: 
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">
+  	Networks and Distributed Processing</font></span></p>
+</blockquote>
+
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2020</font></p>
+
+<blockquote>
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 313-201: Introduction to Computer Systems (honors)</font></p>
+	CSCE 463/612: Networks and Distributed Processing 
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2019</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 313-201: Introduction to Computer Systems (honors)</font></p>
+	<p style="margin-bottom: 6px; margin-top:0">
+	<font face="Microsoft Sans Serif">CSCE 463/612: </font>
+  <font size="3" face="Microsoft Sans Serif">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  	Networks and Distributed Processing</span></font></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2019</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 313-200: Introduction to Computer Systems (honors)</font></p>
+	<p style="margin-bottom: 6px; margin-top:0">
+	<font face="Microsoft Sans Serif">CSCE 463/612: </font>
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">
+  	Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2018</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 313-200: Introduction to Computer Systems (honors)</font></p>
+	<p style="margin-bottom: 6px; margin-top:0">
+	<font face="Microsoft Sans Serif">CSCE 463/612: </font>
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">
+  	Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2017</font></p>
+
+<blockquote>
+
+	<p style="margin-bottom: 6px; margin-top:0">
+	<font face="Microsoft Sans Serif">CSCE 463/612: </font>
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">
+  	Networks and Distributed Processing</font></span></p>
+	<p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 619: </font>
+  <font size="3" face="Microsoft Sans Serif">
+  	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  	Networks and Distributed Processing</span></font></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2016</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 313-200: Introduction to Computer Systems (honors)</font></p>
+	<p style="margin-bottom: 6px; margin-top:0">
+	<font face="Microsoft Sans Serif">CSCE 463/612: </font>
+  <font size="3" face="Microsoft Sans Serif">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  	Networks and Distributed Processing</span></font></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2015</font></p>
+
+<blockquote>
+
+	<p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 689: Special Topics in Scalable Data Computing</font></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2015</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0">
+	<font face="Microsoft Sans Serif">CSCE 463/612: </font>
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">
+  	Networks and Distributed Processing</font></span></p>
+	<p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 619: </font>
+  	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2013</font></p>
+
+<blockquote>
+
+	<p style="margin-bottom: 6px; margin-top:0">
+	<font face="Microsoft Sans Serif">CSCE 463/612: </font>
+  <font size="3" face="Microsoft Sans Serif">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  	Networks and Distributed Processing</span></font></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2013</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 313-200: Introduction to Computer Systems (honors)</font></p>
+	<p style="margin-bottom: 6px; margin-top:0">
+	<font face="Microsoft Sans Serif">CSCE 463/612: </font>
+  <font size="3" face="Microsoft Sans Serif">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  	Networks and Distributed Processing</span></font></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2012</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 619: </font>
+  <font size="3" face="Microsoft Sans Serif"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  Networks and Distributed Processing</span></font></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2011</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 313-505: Introduction to Computer Systems (honors)</font></p>
+	<p style="margin-bottom: 6px; margin-top:0">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CSCE
+  463: Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2011</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><font face="Microsoft Sans Serif">
+	CSCE 313-501/502: Introduction to Computer Systems</font></p>
+	<p style="margin-bottom: 6px; margin-top:0">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  	<font size="3" face="Microsoft Sans Serif">CSCE 619: Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2010</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CSCE
+  463: Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2010</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CSCE
+  463: Networks and Distributed Processing</font></span></p>
+	<p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CSCE 619: Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2009</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CSCE 463: Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2009</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CSCE
+  463: Networks and Distributed Processing</font></span></p>
+	<p style="margin-bottom: 6px; margin-top:0">
+	<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CSCE</font></span><font face="Microsoft Sans Serif"> 689-602: Special Topics in Overlay 
+	Networks</font></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2008</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CPSC 619: Networks and Distributed Processing</font></span></p>
+	<p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CPSC 689-601: Special Topics in Overlay 
+	Networks</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2007</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CPSC
+  463: Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Fall 2006</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CPSC 463: Networks and 
+  Distributed Computing</font></span></p>
+	<p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CPSC 689-602: Special Topics in 
+	Congestion Control</font></span></p>
+
+</blockquote>
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<font face="Microsoft Sans Serif" size="4">Spring 2006</font></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CPSC 619: Networks and 
+	Distributed Computing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="4" face="Microsoft Sans Serif">Fall
+2005</font></span></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CPSC
+  463: Networks and Distributed Processing</font></span></p>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+  <font size="3" face="Microsoft Sans Serif">CPSC
+  689-603: Special Topics in P2P Networks</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="4" face="Microsoft Sans Serif">Spring
+2005</font></span></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="3" face="Microsoft Sans Serif">CPSC 
+  619: Networks and Distributed Computing</font></span></p>
+
+  <p style="margin-bottom: 6px; margin-top:0"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="3" face="Microsoft Sans Serif">CPSC
+  689-602: Special Topics in P2P Networks</font></span></p>
+
+</blockquote>
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px">
+<span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold">
+<font size="4" face="Microsoft Sans Serif">Fall
+ 2004</font></span></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="3" face="Microsoft Sans Serif">CPSC
+  463: Networks and Distributed Processing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="4" face="Microsoft Sans Serif">Spring
+2004</font></span></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="3" face="Microsoft Sans Serif">CPSC 
+  619: Networks and Distributed Computing</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="4" face="Microsoft Sans Serif">Fall
+2003</font></span></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="3" face="Microsoft Sans Serif">CPSC
+  689-603:
+
+  Special Topics in Networking</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="4" face="Microsoft Sans Serif">Spring
+
+2003</font></span></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 12px">
+
+  <span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="3" face="Microsoft Sans Serif">CPSC
+
+  662: Multimedia Networking</font></span></p>
+
+</blockquote>
+
+<p style="background-color: #000000; color: #FFFFFF; margin-bottom:12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="4" face="Microsoft Sans Serif">Fall
+
+2002</font></span></p>
+
+<blockquote>
+
+  <p style="margin-bottom: 12px"><span style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: bold"><font size="3" face="Microsoft Sans Serif">CPSC
+
+  689-606:
+
+  Special Topics in Networking</font></span></p>
+
+</blockquote>
+
+
+<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<center>
+<p align="center" style="text-indent: 16; margin-left: 120; margin-top: 0">
+<font size="1"><br>
+<font face="Microsoft Sans Serif">&nbsp;&nbsp;&nbsp;&nbsp; Copyright © 2002-2024 
+IRL at Texas A&amp;M. All Rights Reserved.</font> </font></p>
+</td></tr><!--msnavigation--></table></body>
+
+
+
+</body>
+
+
+
+
+
+</html>
+

@@ -81,10 +81,13 @@ int main()
     // Task 5
     // receive response
     char recvBuf[512];
+    std::ofstream outputFile;
+    outputFile.open("output.txt", std::ios::binary);
     while (true) {
         int iRes = recv(sock, recvBuf, 512, 0);
         if (iRes > 0) {
             printf("%.*s", (int)iRes, recvBuf);
+            outputFile.write(recvBuf, iRes);
         }
         else if (iRes == 0) {
             printf("Connection closed\n");
@@ -99,6 +102,7 @@ int main()
     // Task 1.2
     // close socket
     closesocket(sock);
+    outputFile.close();
 
     WSACleanup();
 

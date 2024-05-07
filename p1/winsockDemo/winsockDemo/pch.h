@@ -3,5 +3,6 @@
 
 #include <windows.h>
 #include <iostream>
+#include <fstream>
 
 #endif //PCH_H
